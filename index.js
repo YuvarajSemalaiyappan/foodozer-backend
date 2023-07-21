@@ -1,7 +1,7 @@
 const express = require("express");
 const nodeServer = express();
 const cors = require("cors");
-const PORT = 6000;
+const PORT = 6001;
 const HOST = "localhost";
 
 // INJECTING APP SERVER
